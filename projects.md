@@ -20,7 +20,7 @@ My work on the project has continued since leaving MIT, as we work to convert it
 We've also recently had some press coverage from [Business Insider](http://www.businessinsider.com/mit-researchers-squadbox-lets-friends-combat-online-harassment-2018-4), [Lifehacker](https://lifehacker.com/recruit-your-friends-to-stop-online-harassment-1825041913), etc. 
 
 #### Related Publications
-My collaborators and I published both a [paper](https://dl.acm.org/citation.cfm?id=3174160) and an [extended abstract](https://dl.acm.org/citation.cfm?id=3186498) about Squadbox at [CHI 2018](https://www.chi2018.acm.org).
+My collaborators and I published both a [paper](/files/squadbox-paper.pdf) and an [extended abstract](/files/squadbox-demo.pdf) about Squadbox at [CHI 2018](https://www.chi2018.acm.org).
 
 #### Related Talks
 The slides and speaker notes from my presentation at CHI are available [here](https://people.csail.mit.edu/axz/squadbox.html) on my coauthor's website.
