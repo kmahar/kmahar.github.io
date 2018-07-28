@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Work
+permalink: /work/
 ---
 
 # **MongoDB Swift Driver**
 
-My main project so far at MongoDB has been building a new Swift driver for Mongo, available on [GitHub](https://www.github.com/mongodb/mongo-swift-driver). 
+My main project so far at MongoDB has been building a new Swift driver for MongoDB, publically available on [GitHub](https://www.github.com/mongodb/mongo-swift-driver).
 
 #### Related Talks
-[A Swift Introduction to Swift](https://www.mongodb.com/world18/session/173512) - MongoDB World 2018
+[A Swift Introduction to Swift](https://www.mongodb.com/world18/session/173512) - MongoDB World 2018 ([video](https://www.youtube.com/watch?v=CcCTM1PN1N4), [abstract](https://www.mongodb.com/world18/session/173512))
 
 # **Squadbox**
 
