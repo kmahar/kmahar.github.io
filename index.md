@@ -6,4 +6,6 @@ layout: home
 title: Home
 ---
 
-Hi! I'm Kaitlin. I'm a software engineer living in New York City, working at [MongoDB](https://www.mongodb.com/). Before this, I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/). Outside of tech, I like crossword puzzles, current events and politics, and animals. Click around to learn more about my projects, read my blog posts, or get in touch.
+Hi, I'm Kaitlin. I'm a software engineer at [MongoDB](https://www.mongodb.com/) in New York City.
+
+Previously, I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/). Outside of tech, I like puzzles, current events and politics, and pets.
