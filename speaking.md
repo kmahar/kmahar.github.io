@@ -7,7 +7,7 @@ permalink: /speaking/
 If you're interested in having me speak at an event, please contact me via email or Twitter.
 
 # Upcoming
-**Writing Your Own Encoder and Decoder**<br>
+**Inside Swift Encoders and Decoders**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 September 2018 in Berlin, Germany
 
