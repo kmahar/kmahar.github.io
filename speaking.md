@@ -4,14 +4,14 @@ title: Speaking
 permalink: /speaking/
 ---
 
-If you're interested in having me speak at an event, please contact me via email or Twitter.
-
-# Upcoming
-**Inside Swift Encoders and Decoders**<br>
-[ServerSide.swift](https://www.serversideswift.info/)<br>
-September 2018 in Berlin, Germany
+If you're interested in having me speak at an event, please reach out to me via email or Twitter!
 
 # Past
+**Swift's Encoder and Decoder Protocols**<br>
+[ServerSide.swift](https://www.serversideswift.info/)<br>
+September 2018 in Berlin, Germany<br>
+[slides](/files/encoder_decoder_slides.pdf), *video forthcoming*
+
 **A Swift Introduction to Swift**<br>
 [MongoDB World 2018](https://www.mongodb.com/world18)<br>
 June 2018 in New York City<br>
