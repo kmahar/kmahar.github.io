@@ -4,23 +4,13 @@ title: Work
 permalink: /work/
 ---
 
-# **MongoDB Swift Driver**
+# **@ MongoDB**
+The bulk of my time at MongoDB so far has been spent building an official [MongoDB Swift driver]((https://www.github.com/mongodb/mongo-swift-driver)). I've also contributed to the [Node.js](https://mongodb.github.io/node-mongodb-native/) and [C drivers](http://mongoc.org/), and I've done rotations on the teams responsible for the [Automation Agent](https://docs.cloudmanager.mongodb.com/tutorial/nav/automation-agent/), the [BI Connector](https://www.mongodb.com/products/bi-connector), and [Sharding](https://docs.mongodb.com/manual/sharding/).
 
-My main project so far at MongoDB has been building a new Swift driver for MongoDB, publically available on [GitHub](https://www.github.com/mongodb/mongo-swift-driver).
 
-#### Related Talks
-[A Swift Introduction to Swift](https://www.mongodb.com/world18/session/173512) - MongoDB World 2018 ([video](https://www.youtube.com/watch?v=CcCTM1PN1N4), [abstract](https://www.mongodb.com/world18/session/173512))
-
-# **Squadbox**
-
+# **@ MIT**
 My master's work focused on interviewing people who had experienced online harassment, and using their insights and input to build [Squadbox](https://squadbox.org), a tool to help people experiencing online harassment by allowing them to coordinate a "squad" of friends to moderate their incoming messages. 
+You can learn more about the tool, try it out, and learn how to contribute to the project by checking out the [website](https://squadbox.org) and [GitHub repository](https://www.github.com/amyxzhang/squadbox). 
+The project got some press coverage from [Business Insider](http://www.businessinsider.com/mit-researchers-squadbox-lets-friends-combat-online-harassment-2018-4), [Lifehacker](https://lifehacker.com/recruit-your-friends-to-stop-online-harassment-1825041913), etc. 
 
-My work on the project has continued since leaving MIT, as we work to convert it from a research tool to a robust, secure, and usable system. You can learn more about the tool, try it out, and learn how to contribute to the project by checking out the [website](https://squadbox.org) and [GitHub repository](https://www.github.com/amyxzhang/squadbox). 
-
-We've also recently had some press coverage from [Business Insider](http://www.businessinsider.com/mit-researchers-squadbox-lets-friends-combat-online-harassment-2018-4), [Lifehacker](https://lifehacker.com/recruit-your-friends-to-stop-online-harassment-1825041913), etc. 
-
-#### Related Publications
 My collaborators and I published both a [paper](/files/squadbox-paper.pdf) and an [extended abstract](/files/squadbox-demo.pdf) about Squadbox at [CHI 2018](https://www.chi2018.acm.org).
-
-#### Related Talks
-The slides and speaker notes from my presentation at CHI are available [here](https://people.csail.mit.edu/axz/squadbox.html) on my coauthor's website.
