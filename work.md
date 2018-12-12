@@ -5,7 +5,11 @@ permalink: /work/
 ---
 
 # **@ MongoDB**
-The bulk of my time at MongoDB so far has been spent building an official [MongoDB Swift driver]((https://www.github.com/mongodb/mongo-swift-driver)). I've also contributed to the [Node.js](https://mongodb.github.io/node-mongodb-native/) and [C drivers](http://mongoc.org/), and I've done rotations on the teams responsible for the [Automation Agent](https://docs.cloudmanager.mongodb.com/tutorial/nav/automation-agent/), the [BI Connector](https://www.mongodb.com/products/bi-connector), and [Sharding](https://docs.mongodb.com/manual/sharding/).
+My main focus so far has been building [`MongoSwift`](https://www.github.com/mongodb/mongo-swift-driver), our official driver for Swift. The driver provides an idiomatic API for Swift applications to communicate with the database.
+
+I also work on [`mongomirror`](https://docs.atlas.mongodb.com/import/mongomirror/), a utility written in Go that enables users to seamlessly migrate data between MongoDB replica sets.
+
+I've also contributed to the [Node.js](https://mongodb.github.io/node-mongodb-native/) and [C drivers](http://mongoc.org/), and I've done rotations on the teams responsible for the [Automation Agent](https://docs.cloudmanager.mongodb.com/tutorial/nav/automation-agent/), the [BI Connector](https://www.mongodb.com/products/bi-connector), and [Sharding](https://docs.mongodb.com/manual/sharding/).
 
 
 # **@ MIT**

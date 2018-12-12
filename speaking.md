@@ -10,7 +10,7 @@ If you're interested in having me speak at an event, please reach out to me via 
 **Swift's Encoder and Decoder Protocols**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 September 2018 in Berlin, Germany<br>
-[slides](/files/encoder_decoder_slides.pdf), *video forthcoming*
+[video](https://www.youtube.com/watch?v=yL5Ff5p1hyc), [slides](/files/encoder_decoder_slides.pdf)
 
 **A Swift Introduction to Swift**<br>
 [MongoDB World 2018](https://www.mongodb.com/world18)<br>
