@@ -32,6 +32,8 @@ class SubclassB: ClassB {}
 My subclass of the `open class` works just fine - but when I try to subclass the `public class`, I get `error: cannot inherit from non-open class 'ClassB' outside of its defining module`.
 
 #### 2. `open` class members can be overridden within modules that import their classes.
+(By "class members", I mean `class` properties and methods.)
+
 In contrast, `public` class members *cannot* be subclassed in modules that import their classes.
 
 Let's return to our previous `open class` and add a method to it:
@@ -73,10 +75,8 @@ I could override `foo` within `ModuleB` just fine like before, but trying to ove
 
 We also could've marked `bar` with an explicit level that wasn't `open`, like `private` or `public`, and the typical rules for those access levels would apply.
 
-#### 4. `open` only applies to classes and class members\*.
+#### 4. `open` only applies to classes and class members.
 Since `open` describes behavior related to inheritance, it only makes sense to use it with types that support inheritance - in Swift, that's just classes!
-
-\**By "class members", I mean class properties and methods.*
 
 #### 5. Think carefully before marking anything in your library open.
 There's a reason that `open` is not the default - it should only be used when you're *sure* that you want your users to be able to do what it allows.
