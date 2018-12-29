@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What does "open" mean in Swift? 
+title:  What does open mean in Swift?
 date:   2018-12-28 23:00:00 -0400
 categories:
 ---
