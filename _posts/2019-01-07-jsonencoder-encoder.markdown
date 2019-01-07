@@ -74,7 +74,7 @@ class JSONDecoder {
 
 Ok, so now we see how the `Encodable` and `Decodable` protocols fit into `JSONEncoder` and `JSONDecoder`. But why were they designed that way? Why not just make `JSONEncoder` an `Encoder` too?
 
-In short, the answer is that they provide very different APIs. The `JSONEncoder` API is designed to provide a single, simple entry point into encoding, and the `Encodable` protocol provides a completely different API for customizing how types are encoded. 
+In short, the answer is that they provide very different APIs. The `JSONEncoder` API is designed to provide a single, simple entry point into encoding, and the `Encoder` protocol provides a completely different API for customizing how types are encoded. 
 
 Consider `JSONEncoder`. All we really get is this one simple method: 
 ```swift
@@ -86,7 +86,7 @@ let s = MyType()
 let sData = try JSONEncoder().encode(s)
 ```
 
-There are also some configuration options available on `JSONEncoder`, such as `OutputFormatting` and `KeyEncodingStrategy`. But that's about it.
+There are also some configuration options available on `JSONEncoder`, such as [`outputFormatting`](https://developer.apple.com/documentation/foundation/jsonencoder/2895284-outputformatting) and [`keyEncodingStrategy`](https://developer.apple.com/documentation/foundation/jsonencoder/2949141-keyencodingstrategy). But that's about it.
 
 On the other hand, the `Encoder` protocol requires a number of methods that provide *containers* for encoding values in:
 ```swift
@@ -104,7 +104,7 @@ protocol SingleValueEncodingContainer {
 }
 ```
 
-The methods on `Encoder` and `SingleValueEncodingContainer` (and the other container types, too) are meant to be used by `Encodable` types in their `encode(to:)` implementations to customize how exactly they're encoded. I'll talk about that more in a future blog post, but for now you can read about it [in the Swift documentation](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types) (see "Encoding and Decoding Manually").
+The methods on `Encoder` and [`SingleValueEncodingContainer`](https://developer.apple.com/documentation/swift/singlevalueencodingcontainer) (and the other container types, too) are meant to be used by `Encodable` types in their `encode(to:)` implementations to customize how exactly they're encoded. I'll talk about that more in a future blog post, but for now you can read about it [in the Swift documentation](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types) (see "Encoding and Decoding Manually").
 
 One of the authors of `Codable`, [Itai Ferber](https://itaiferber.net/), confirmed the reasoning behind the design:
 <a class="embedly-card" href="https://www.reddit.com/r/swift/comments/a8jden/why_dont_jsonencoder_and_jsondecoder_conform_to/ecblk1e">Card</a>
