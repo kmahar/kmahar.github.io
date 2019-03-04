@@ -2,7 +2,7 @@
 layout: home
 title: About
 ---
-<img src="/files/kaitlin.jpg" width="350" align="left" hspace="20">
+<img src="/files/kaitlin.JPG" width="350" align="left" hspace="20">
 <br>
 Hi, I'm Kaitlin. I'm a New York City-based software engineer working at [MongoDB](https://www.mongodb.com/).
 
