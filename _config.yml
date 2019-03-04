@@ -27,12 +27,13 @@ title_image: /favicon-256.png
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
 
 show_excerpts: true
 
+google_analytics: UA-118941325-1
 
 
 # Exclude from processing.
