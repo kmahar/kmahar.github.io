@@ -2,9 +2,13 @@
 layout: home
 title: About
 ---
-<img src="/files/kaitlin.JPG" width="350" align="left" hspace="20">
-<br>
-Hi, I'm Kaitlin. I'm a New York City-based software engineer working at [MongoDB](https://www.mongodb.com/).
 
-Previously, I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/). Outside of tech, I like puzzles, current events and politics, and pets.
-<br><br> [twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)
+Hi, I'm Kaitlin. I'm a software engineer living in NYC. 
+
+I work at [MongoDB](https://www.mongodb.com/), where I lead development of the [official MongoDB driver for Swift](https://github.com/mongodb/mongo-swift-driver).
+
+Previously, I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/). 
+
+Outside of my work, I like doing crossword puzzles, playing with my cats, and trying all of the amazing food and drinks NYC has to offer.
+<br><br>
+[twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)

@@ -4,9 +4,13 @@ title: Speaking
 permalink: /speaking/
 ---
 
-If you're interested in having me speak at an event, please reach out to me via email or Twitter!
+If you're interested in having me speak at an event, please [send me an email](mailto:kaitlinmahar@gmail.com).
 
-# Past
+## Upcoming
+[try! Swift NYC](https://www.tryswift.co/events/2019/nyc/)<br>
+September 2019 in New York City
+
+## Past
 **Swift's Encoder and Decoder Protocols**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 September 2018 in Berlin, Germany<br>
