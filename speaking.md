@@ -7,8 +7,14 @@ permalink: /speaking/
 If you're interested in having me speak at an event, please [send me an email](mailto:kaitlinmahar@gmail.com).
 
 ## Upcoming
+[SwiftFest](https://swiftfest.io/)<br>
+July 2019 in Boston, Massachusetts
+
 [try! Swift NYC](https://www.tryswift.co/events/2019/nyc/)<br>
 September 2019 in New York City
+
+[ServerSide.swift](https://www.serversideswift.info/)<br>
+October 2019 in Copenhagen, Denmark
 
 ## Past
 **Swift's Encoder and Decoder Protocols**<br>
