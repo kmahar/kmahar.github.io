@@ -28,8 +28,8 @@ title_image: /favicon-256.png
 # Build settings
 markdown: kramdown
 
-theme: jekyll-whiteglass # local dev
-#remote_theme: yous/whiteglass # github pages
+#theme: jekyll-whiteglass # local dev
+remote_theme: yous/whiteglass # github pages
 
 plugins:
   - jekyll-feed
