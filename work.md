@@ -24,3 +24,5 @@ You can learn more about the tool, try it out, and learn how to contribute to th
 The project got some press coverage from [Business Insider](http://www.businessinsider.com/mit-researchers-squadbox-lets-friends-combat-online-harassment-2018-4), [Lifehacker](https://lifehacker.com/recruit-your-friends-to-stop-online-harassment-1825041913), etc.
 
 My collaborators and I published both a [paper](/files/squadbox-paper.pdf) and an [extended abstract](/files/squadbox-demo.pdf) about Squadbox at [CHI 2018](https://www.chi2018.acm.org).
+
+My thesis is available on [MIT DSpace](https://dspace.mit.edu/handle/1721.1/119593).
