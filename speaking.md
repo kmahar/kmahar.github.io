@@ -7,18 +7,15 @@ permalink: /speaking/
 If you're interested in having me speak at an event, please [send me an email](mailto:kaitlinmahar@gmail.com).
 
 ## Upcoming
-**Encoding and Decoding in Swift**<br>
-[try! Swift NYC](https://www.tryswift.co/events/2019/nyc/)<br>
-September 2019 in New York City
-
 **Maintaining a Library in a Swiftly Moving Ecosystem**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 October 2019 in Copenhagen, Denmark
 
 ## Past
 **Encoding and Decoding in Swift**<br>
-[SwiftFest](https://swiftfest.io/)<br>
-July 2019 in Boston, Massachusetts
+[try! Swift NYC](https://www.tryswift.co/events/2019/nyc/), September 2019 in New York City<br>
+[SwiftFest](https://swiftfest.io/), July 2019 in Boston, MA<br>
+*video forthcoming*, [slides](/files/encoding_decoding_slides.pdf)
 
 **Swift's Encoder and Decoder Protocols**<br>
 [ServerSide.swift](https://www.serversideswift.info/2018)<br>
