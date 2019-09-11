@@ -25,7 +25,7 @@ September 2018 in Berlin, Germany<br>
 **A Swift Introduction to Swift**<br>
 [MongoDB World 2018](https://www.mongodb.com/world18)<br>
 June 2018 in New York City<br>
-[video](https://explore.mongodb.com/mongodb-world-2018/kaitlin-mahar-a-swift-introduction-to-swift), [slides](https://explore.mongodb.com/mongodb-2018-session-slide-decks/mongodb-world-2018-a-swift-introduction-to-swift-2)
+[video](https://explore.mongodb.com/mongodb-world-2018/kaitlin-mahar-a-swift-introduction-to-swift), [slides](/files/swift_intro.pdf)
 
 **Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation**<br>
 The ACM Conference on Human Factors in Computing Systems ([CHI 2018](https://chi2018.acm.org/))<br>
