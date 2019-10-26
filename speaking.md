@@ -15,7 +15,7 @@ October 2019 in Copenhagen, Denmark
 **Encoding and Decoding in Swift**<br>
 [try! Swift NYC](https://www.tryswift.co/events/2019/nyc/), September 2019 in New York City<br>
 [SwiftFest](https://swiftfest.io/), July 2019 in Boston, MA<br>
-*video forthcoming*, [slides](/files/encoding_decoding_slides.pdf)
+[video](https://www.youtube.com/watch?v=9GZ8Hiq-Nbc), [slides](/files/encoding_decoding_slides.pdf)
 
 **Swift's Encoder and Decoder Protocols**<br>
 [ServerSide.swift](https://www.serversideswift.info/2018)<br>
