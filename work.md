@@ -11,7 +11,9 @@ I'm a member of the Drivers team. We build the open source libraries that enable
 
 I'm the lead developer of [`MongoSwift`](https://www.github.com/mongodb/mongo-swift-driver), the official MongoDB Swift driver. The driver provides an idiomatic MongoDB API for server-side Swift applications running on MacOS and Linux. I wrote the driver from scratch, and I continue to maintain it and add new features along with a couple other members of the Drivers team.
 
-I serve as a mentor to junior engineers and interns on my team, and [speak](/speaking) about Swift and MongoDB at technical conferences.
+In the past I've contributed to the MongoDB C and Node.js drivers, and worked on a number of utilities written in Golang, including [mongomirror](https://docs.atlas.mongodb.com/import/mongomirror/), [Atlas Data Lake](https://www.mongodb.com/atlas/data-lake), and the [MongoDB Agent](https://docs.opsmanager.mongodb.com/current/tutorial/nav/mongodb-agent/).
+
+I serve as a mentor to junior engineers and interns on my team, and [speak](/speaking) about Swift, MongoDB, and related subjects at technical conferences.
 
 ## **@ MIT**
 *Master of Engineering in Electrical Engineering and Computer Science, 2016-2017*<br>
