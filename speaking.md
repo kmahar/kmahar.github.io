@@ -11,7 +11,7 @@ Nothing at the moment. If you're interested in having me speak at an event, plea
 **Maintaining a Library in a Swiftly Moving Ecosystem**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 October 2019 in Copenhagen, Denmark<br>
-*video forthcoming*, [slides](https://speakerdeck.com/kmahar/maintaining-a-library-in-a-swiftly-moving-ecosystem)
+[video](https://www.youtube.com/watch?v=9-fdbG9jNt4), [slides](https://speakerdeck.com/kmahar/maintaining-a-library-in-a-swiftly-moving-ecosystem)
 
 **Encoding and Decoding in Swift**<br>
 [try! Swift NYC](https://www.tryswift.co/events/2019/nyc/), September 2019 in New York City<br>
