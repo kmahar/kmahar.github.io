@@ -11,7 +11,7 @@ Previously, I did my S.B. and M. Eng. in computer science at [MIT](https://web.m
 
 Outside of my work, I like doing crossword puzzles, playing with my cats, and trying all of the amazing food and drinks NYC has to offer.
 
-I'm **not interested** in pursuing new career opportunities at this time, but please feel free to get in touch about anything else:<br>
+I'm **not interested** in pursuing new career opportunities at this time, but please feel free to get in touch about anything else. 
 [twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)
 
 *All views on this website are my own.*

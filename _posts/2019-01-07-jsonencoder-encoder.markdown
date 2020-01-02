@@ -113,4 +113,4 @@ One of the authors of `Codable`, [Itai Ferber](https://itaiferber.net/), confirm
 ## Conclusion
 In short, `JSONEncoder` and `JSONDecoder` use internal types conforming to `Encoder` and `Decoder` in order to split up portions of the encoding/decoding APIs, based on how and where you use them.
 
-I hope you found this post helpful! Please feel free to ask questions or give feedback, either in the comments section or via [Twitter](https://www.twitter.com/k__mahar) or [email](mailto:kaitlinmahar@gmail.com).
+I hope you found this post helpful! Please feel free to ask questions or give feedback via [Twitter](https://www.twitter.com/k__mahar) or [email](mailto:kaitlinmahar@gmail.com).

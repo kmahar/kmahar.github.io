@@ -88,4 +88,4 @@ failed: caught error: first error
 ```
 Exactly the message we specified when we originally threw the error!
 
-Thanks for reading, and let me know any questions or feedback you have in the comments 🙂
+Thanks for reading, and let me know any questions or feedback you have via Twitter or email 🙂

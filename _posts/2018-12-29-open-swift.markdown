@@ -93,4 +93,4 @@ Making a class and its members `open` can be a useful tool if you want the abili
 
 For more information, I recommend reading the Swift language guide [chapter on access control](https://docs.swift.org/swift-book/LanguageGuide/AccessControl.html).
 
-Please let me know any thoughts or questions you have in the comments or via Twitter or email!
+Please let me know any thoughts or questions you have via Twitter or email!
