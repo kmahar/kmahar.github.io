@@ -3,9 +3,9 @@ layout: home
 title: About
 ---
 
-Hi, I'm Kaitlin. I'm a software engineer living in NYC.
+Hi, I'm Kaitlin.
 
-I work at [MongoDB](https://www.mongodb.com/), where I lead development of the [official MongoDB driver for Swift](https://github.com/mongodb/mongo-swift-driver).
+I'm a senior software engineer at [MongoDB](https://www.mongodb.com/), where I lead development of the [official MongoDB driver for Swift](https://github.com/mongodb/mongo-swift-driver).
 
 Previously, I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/).
 

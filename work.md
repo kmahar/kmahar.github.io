@@ -5,7 +5,8 @@ permalink: /work/
 ---
 
 ## **@ MongoDB**
-*2017-present*
+*Senior Software Engineer, 2020-present*<br>
+*Software Engineer, 2017-2020*
 
 I'm a member of the Drivers team. We build the open source libraries that enable users of numerous programming languages to use MongoDB in their applications.
 
