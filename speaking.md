@@ -31,4 +31,4 @@ June 2018 in New York City<br>
 **Squadbox: A Tool to Combat Email Harassment Using Friendsourced Moderation**<br>
 The ACM Conference on Human Factors in Computing Systems ([CHI 2018](https://chi2018.acm.org/))<br>
 April 2018 in Montréal, QC, Canada<br>
-[slides & speaker notes](https://people.csail.mit.edu/axz/squadbox.html)
+[slides & speaker notes](https://homes.cs.washington.edu/~axz/squadbox.html)
