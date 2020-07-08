@@ -16,4 +16,6 @@ Outside of my work, I like doing crossword puzzles, playing with my cats, and tr
 I'm **not interested** in pursuing new roles at this time, but please feel free to get in touch about anything else.
 [twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)
 
+If you have a question about the MongoDB driver, please reach out to my team via [GitHub](https://github.com/mongodb/mongo-swift-driver/issues) or [Jira](https://jira.mongodb.org/browse/SWIFT).
+
 *All views on this website are my own.*
