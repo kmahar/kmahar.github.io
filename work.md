@@ -11,7 +11,7 @@ permalink: /work/
 
 I'm a lead engineer on the Drivers team. We build the open source libraries that enable developers working in numerous popular programming languages to use MongoDB in their applications.
 
-As a lead, I manage the teams developing our official drivers for [Swift](https://github.com/mongodb/mongo-swift-driver) and [Rust](https://github.com/mongodb/mongo-rust-driver).
+As a lead, I manage the teams developing our official drivers for [Swift](https://github.com/mongodb/mongo-swift-driver), [Rust](https://github.com/mongodb/mongo-rust-driver), and [Node.js](https://github.com/mongodb/node-mongodb-native).
 
 I'm the primary author and maintainer of the Swift driver, which provides an idiomatic API for using MongoDB in server-side Swift applications running on MacOS and Linux.
 
