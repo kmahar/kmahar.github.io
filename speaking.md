@@ -5,9 +5,17 @@ permalink: /speaking/
 ---
 
 ## Upcoming
-Nothing at the moment. If you're interested in having me speak at an event, please [send me an email](mailto:kaitlinmahar@gmail.com).
+Nothing at the moment. If you're interested in having me speak at an event or on a podcast, please [send me an email](mailto:kaitlinmahar@gmail.com).
 
 ## Past
+**The MongoDB Podcast: The MongoDB Swift Driver with Kaitlin Mahar**<br>
+December 2020<br>
+[audio](https://mongodb.libsyn.com/ep-33-mongodb-swift-driver-with-kaitlin-mahar)
+
+**The Swift Community Podcast: Live from the Server-Side Swift conference**<br>
+February 2020<br>
+[audio](https://www.swiftcommunitypodcast.org/episodes/7)
+
 **Maintaining a Library in a Swiftly Moving Ecosystem**<br>
 [ServerSide.swift](https://www.serversideswift.info/)<br>
 October 2019 in Copenhagen, Denmark<br>
