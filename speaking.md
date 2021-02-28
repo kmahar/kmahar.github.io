@@ -8,6 +8,10 @@ permalink: /speaking/
 Nothing at the moment. If you're interested in having me speak at an event or on a podcast, please [send me an email](mailto:kaitlinmahar@gmail.com).
 
 ## Past
+**Swift by Sundell Podcast: “All of our wildest Swift dreams” with special guest Kaitlin Mahar**<br>
+February 2021<br>
+[audio](https://swiftbysundell.com/podcast/92/)
+
 **The MongoDB Podcast: The MongoDB Swift Driver with Kaitlin Mahar**<br>
 December 2020<br>
 [audio](https://mongodb.libsyn.com/ep-33-mongodb-swift-driver-with-kaitlin-mahar)
