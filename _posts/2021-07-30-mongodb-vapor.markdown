@@ -11,6 +11,25 @@ This blog post will take you through the basics of creating a server-side Swift 
 
 This post assumes you have Swift 5.2 (or newer) installed on your machine. You can find instructions to install Swift on various platforms [here](https://swift.org/getting-started/#installing-swift).
 
+* [Step 1: Set up MongoDB](#step-1-set-up-mongodb)
+    * [Atlas (recommended)](#atlas-recommended)
+    * [Local MongoDB](#local-mongodb)
+* [Step 2: Install Vapor Toolbox](#step-2-install-vapor-toolbox)
+* [Step 3: Create a new project](#step-3-create-a-new-project)
+* [Step 4: Build and run your application](#step-4-build-and-run-your-application)
+    * [From the command line](#from-the-command-line)
+    * [Or, from Xcode](#or-from-xcode)
+* [Step 5: Test out the application](#step-5-test-out-the-application)
+* [Step 6: Explore the code and modify to your liking](#step-6-explore-the-code-and-modify-to-your-liking)
+    * [`Package.swift`](#packageswift)
+    * [`Resources`](#resources)
+    * [`Sources`](#sources)
+        * [`Sources/App`](#sourcesapp)
+        * [`Sources/Run`](#sourcesrun)
+    * [`Tests`](#tests)
+* [Step 7: Now what?](#step-7-now-what)
+* [References](#references)    
+
 # Step 1: Set up MongoDB
 
 You have two options for this: either downloading and running MongoDB [locally](#local-mongodb), or creating a free MongoDB cluster hosted in the cloud using [Atlas](#atlas-recommended), MongoDB's official database-as-a-service.
