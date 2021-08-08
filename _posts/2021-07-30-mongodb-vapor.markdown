@@ -220,7 +220,7 @@ This type conforms to Vapor's [`Content`](https://docs.vapor.codes/4.0/content/)
 extension Request {
     /// Convenience accessor for the home.kittens collection.
     var kittenCollection: MongoCollection<Kitten> {
-        self.mongoDB.client.db(“home”).collection(“kittens”, withType: Kitten.self)
+        self.mongoDB.client.db("home").collection("kittens", withType: Kitten.self)
     }
 }
 ```
