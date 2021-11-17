@@ -5,8 +5,7 @@ title: About
 
 Hi, I'm Kaitlin. My pronouns are she/her.
 
-I'm a lead engineer at [MongoDB](https://www.mongodb.com/). I manage the teams developing our official drivers for [Swift](https://github.com/mongodb/mongo-swift-driver), [Rust](https://github.com/mongodb/mongo-rust-driver), and [Node.js](https://github.com/mongodb/node-mongodb-native).
-I'm the primary author and maintainer of the Swift driver, and a member of the [Swift Server Work Group](https://swift.org/server/).
+I'm a lead engineer at [MongoDB](https://www.mongodb.com/). I manage the teams developing our official drivers for [Swift](https://github.com/mongodb/mongo-swift-driver) and [Rust](https://github.com/mongodb/mongo-rust-driver). I'm the primary author and maintainer of the Swift driver, and a member of the [Swift Server Work Group](https://swift.org/server/).
 
 Previously, I was an individual contributor at MongoDB, and before that I did my S.B. and M. Eng. in computer science at [MIT](https://web.mit.edu/).
 
