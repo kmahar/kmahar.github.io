@@ -9,7 +9,7 @@ permalink: /work/
 ### Core Server Team
 *Senior Engineer, February 2023-present*<br><br>
 
-I recently made an internal transfer onto the Core Server team! More updates to come after I've been there for a while 🙂
+I recently made an internal transfer onto the Core Server team! More updates to come after I've been there for a while 🙂<br><br>
 
 ### Database Experience (DBX) Team
 *Lead Engineer (Engineering Manager), August 2020-February 2023*<br>
