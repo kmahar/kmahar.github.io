@@ -5,19 +5,27 @@ permalink: /work/
 ---
 
 ## **@ MongoDB**
-*Lead Engineer, August 2020-present*<br>
+
+### Core Server Team
+*Senior Engineer, February 2023-present*
+
+I recently made an internal transfer onto the Core Server team! More updates to come after I've been there for a while 🙂
+
+### Database Experience (DBX) Team
+*Lead Engineer (Engineering Manager), August 2020-February 2023*<br>
 *Senior Software Engineer, February-August 2020*<br>
 *Software Engineer, August 2017-February 2020*
 
-I'm a lead engineer on the Database Experience team. We build the open source libraries that enable developers working in numerous popular programming languages to use MongoDB in their applications.
+I spent 5 years on the DBX team at MongoDB, first as an individual contributor and then as an engineering manager.
 
-As a lead, I manage the teams developing our official drivers for [Swift](https://github.com/mongodb/mongo-swift-driver) and [Rust](https://github.com/mongodb/mongo-rust-driver).
+DBX builds the open source libraries that enable developers working in numerous popular programming languages to use MongoDB in their applications.
 
-I'm the primary author and maintainer of the Swift driver, which provides an idiomatic API for using MongoDB in server-side Swift applications running on MacOS and Linux.
+As a lead, I managed various combinations of the teams developing our official libraries for [Swift](https://github.com/mongodb/mongo-swift-driver), [Rust](https://github.com/mongodb/mongo-rust-driver), and [Node.js](https://github.com/mongodb/node-mongodb-native). My day-to-day included a mix of people management, providing technical direction and leadership for the languages I managed as well as department-wide initiatives, writing and reviewing [specifications](https://github.com/mongodb/specifications) defining cross-language driver behavior, and contributing code to the Rust and Swift libraries.
 
-I [speak](/speaking) about Swift, MongoDB, and related subjects at technical conferences.
+As an individual contributor, my primary accomplishment was the authorship of the Swift driver, which I brought from a single-file, 100-line proof of concept to a full-fledged, production-ready, idiomatic driver for building server-side Swift applications using MongoDB. 
 
-I'm also a member of the [Swift Server Work Group](https://swift.org/server/), a steering team that promotes the use of Swift for developing and deploying server applications. The SSWG provides technical direction for Swift libraries and tools with the aim of creating a healthy and robust server-side ecosystem.
+Throughout my time on the team, I worked extensively to establish a relationship between MongoDB and the Swift community by
+[speaking](/speaking) at conferences and on podcasts, submitting a proposal (which was accepted) for the Swift driver to take part in the [Swift Server Work Group](https://swift.org/sswg/) incubation process, and eventually joining the work group myself, which I served as a member of for almost 3 years.
 
 ## **@ MIT**
 *Master of Engineering in Electrical Engineering and Computer Science, 2016-2017*<br>
