@@ -11,6 +11,6 @@ In my free time I enjoy doing crosswords, cooking, crocheting, birdwatching, and
 
 I'm **not interested** in pursuing new roles at this time.
 
-Please note I am NOT the same Kaitlin Mahar who writes about products for Wirecutter, Parade, etc. - please do not contact me about anything related to that. <br>[twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)<br><br>
+Please note I am NOT the same Kaitlin Mahar who writes about products for Wirecutter, Parade, etc. - please do not contact me about anything related to that. <br><br><br>[twitter](https://twitter.com/k__mahar) | [linkedin](https://www.linkedin.com/in/kaitlinmahar/) | [email](mailto:kaitlinmahar@gmail.com)<br><br>
 
 *All views on this website are my own.*
